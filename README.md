@@ -146,3 +146,17 @@ From this table, we can see that adding the augmentation and the weighted loss r
 
 
 ---
+# 🚙💻🔧 Exercise 5 – Physical Car Implementation
+
+In this exercise, we transition from simulation to reality by implementing our autonomous navigation algorithms on a physical car platform. This allows us to test and validate our approaches in real-world conditions, addressing challenges not present in simulation.
+
+
+The physical car platform is equipped with similar sensors to those used in our CARLA simulations:
+- An RGB camera for visual perception
+- LIDAR for distance measurement and obstacle detection
+
+## 📊 Documentation
+
+A report documenting our implementation process, challenges faced, and results achieved with the physical car is available in the Exercise 5 folder. There are also videos showing the physical car in operation in different situations.
+
+</div>
